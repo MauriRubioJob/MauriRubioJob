@@ -7,8 +7,6 @@
 - 📫 How to reach me:
   
       mauriciorr.job@gmail.com
-  ---------
-      +34622510013
 
 
 
