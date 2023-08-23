@@ -10,8 +10,6 @@
 
 
 
-
-
 Projects you can get to know about me:
 
 - From the time I used to teach: [NLP Classes](https://github.com/MauriRubioJob/DataAnalysis-NLP-classes)
