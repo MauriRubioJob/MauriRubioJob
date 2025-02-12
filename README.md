@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @MauriRubioJob.
-- 👀 I’m interested in Machine Learning Models, Deep Learning, EDA, Data Wrangling and CI/CD.
+- 👀 I’m interested in Machine Learning Models, Deep Learning, EDA, Data Wrangling and MLOps.
 - 🌱 I’m currently learning Deep Learning, Jenkins for deployment and cloud infraestructures like AWS.
 - 📫 How to reach me:
   
